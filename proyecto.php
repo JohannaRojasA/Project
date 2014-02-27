@@ -1,5 +1,7 @@
 <?php
-
+ /*
+  SE OBTIENEN LOS DATOS QUE SON INGRESADOS A TRAVÉS DEL FORMULARIO, CREA EL ARCHIVO .csv Y ESCRIBE LOS DATOS INGRESADOS
+ */
 	$name = $_POST["name"];
 	$lastname = $_POST["lastname"];
 	$email=$_POST["email"];

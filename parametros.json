@@ -1,0 +1,15 @@
+{
+"data_base":
+    {
+    "ip_server" : "localhost",
+    "user": "root",
+    "pass": ""
+    },
+"mail":
+    {
+    "senders" : "johannarojasamador@gmail.com",
+    "pass": "joha2684392",
+    "server": "smtp.gmail.com",
+    "receives": "johannarojasamador@gmail.com"
+    }
+}
